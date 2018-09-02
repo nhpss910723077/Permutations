@@ -1,0 +1,14 @@
+﻿body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #00ffff;
+    padding: 0 20px 20px 20px;
+}
+
+.lab-error {
+    color: red;
+}
+
+div {
+    font-size:18px;
+}
