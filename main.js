@@ -43,19 +43,3 @@ $('.btn-reset').click(function () {
     count = 0;
     question = [];
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
